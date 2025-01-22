@@ -1,0 +1,13 @@
+# HTACCESS
+
+## Redirect 404 errors to a custom error page
+
+ErrorDocument 404 https://error.justwaitforme.de/404
+
+## Redirect 500 errors to a custom error page
+
+ErrorDocument 500 https://error.justwaitforme.de/500
+
+## Redirect 403 errors to a custom error page
+
+ErrorDocument 403 https://error.justwaitforme.de/403
