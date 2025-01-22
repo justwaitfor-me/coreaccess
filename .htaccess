@@ -11,3 +11,8 @@ ErrorDocument 500 https://error.justwaitforme.de/500
 ## Redirect 403 errors to a custom error page
 
 ErrorDocument 403 https://error.justwaitforme.de/403
+
+<Directory /api>
+    Order allow,deny
+    Deny from all
+</Directory>
