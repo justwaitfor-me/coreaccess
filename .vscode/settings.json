@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "api": true,
+        ".vscode": true,
+        "assets": true,
+        "docs": true,
+        ".htaccess": true,
+        "CONTRIBUTING.md": true,
+        "index.html": true,
+        "LICENCE": true,
+        "README.md": true,
+        "app\\src\\index.css": true,
+        "app\\src\\index.css.map": true,
+        "app\\src\\App.css": true,
+        "app\\src\\App.css.map": true,
+        "app\\src\\assets\\css\\footer.css": true,
+        "app\\src\\assets\\css\\footer.css.map": true,
+        "app\\src\\assets\\css\\header.css": true,
+        "app\\src\\assets\\css\\header.css.map": true
+    }
+}
