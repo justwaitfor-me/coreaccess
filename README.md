@@ -28,7 +28,7 @@ To install CoreAccess, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/coreaccess.git
+    git clone https://github.com/justwaitfor-me/coreaccess.git
     ```
 
 2. Navigate to the project directory:
